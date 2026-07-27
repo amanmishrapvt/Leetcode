@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0999-available-captures-for-rook](https://github.com/amanmishrapvt/Leetcode/tree/master/0999-available-captures-for-rook) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/amanmishrapvt/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
