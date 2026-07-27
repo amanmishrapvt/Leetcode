@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/amanmishrapvt/Leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanmishrapvt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/amanmishrapvt/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Trie
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Matrix
 |  |
 | ------- |
