@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/amanmishrapvt/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
+| [0401-binary-watch](https://github.com/amanmishrapvt/Leetcode/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/amanmishrapvt/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/amanmishrapvt/Leetcode/tree/master/0476-number-complement) |
 | [0672-bulb-switcher-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
