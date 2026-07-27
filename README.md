@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0859-buddy-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0859-buddy-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/amanmishrapvt/Leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/amanmishrapvt/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Bit Manipulation
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/amanmishrapvt/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
