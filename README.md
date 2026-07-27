@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1470-shuffle-the-array) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
