@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
+| [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
+| [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0859-buddy-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0859-buddy-strings) |
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amanmishrapvt/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/amanmishrapvt/Leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanmishrapvt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -376,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
+## Randomized
+|  |
+| ------- |
+| [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
