@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1405-longest-happy-string) |
 | [1408-string-matching-in-an-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanmishrapvt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
