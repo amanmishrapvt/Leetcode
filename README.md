@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amanmishrapvt/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0598-range-addition-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Number Theory
 |  |
