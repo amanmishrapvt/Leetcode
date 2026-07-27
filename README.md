@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/amanmishrapvt/Leetcode/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/amanmishrapvt/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Matrix
 |  |
