@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
