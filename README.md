@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/amanmishrapvt/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0394-decode-string) |
 ## Database
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
 | ------- |
