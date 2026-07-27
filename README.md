@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
