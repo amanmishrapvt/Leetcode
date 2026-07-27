@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0390-elimination-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
