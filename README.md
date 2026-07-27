@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
