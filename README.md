@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/amanmishrapvt/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/amanmishrapvt/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1470-shuffle-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1470-shuffle-the-array) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 ## Greedy
 |  |
@@ -155,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0999-available-captures-for-rook](https://github.com/amanmishrapvt/Leetcode/tree/master/0999-available-captures-for-rook) |
+| [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -291,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
