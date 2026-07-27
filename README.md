@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Counting Sort
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Stack
 |  |
 | ------- |
