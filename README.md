@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanmishrapvt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Number Theory
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/amanmishrapvt/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanmishrapvt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Trie
 |  |
 | ------- |
