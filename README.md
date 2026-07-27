@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
