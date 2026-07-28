@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amanmishrapvt/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/amanmishrapvt/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/amanmishrapvt/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
