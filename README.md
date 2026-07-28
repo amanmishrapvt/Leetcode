@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amanmishrapvt/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amanmishrapvt/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/amanmishrapvt/Leetcode/tree/master/0051-n-queens) |
 | [0118-pascals-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/amanmishrapvt/Leetcode/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/amanmishrapvt/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
