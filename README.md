@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/amanmishrapvt/Leetcode/tree/master/1399-count-largest-group) |
 | [1400-construct-k-palindrome-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/amanmishrapvt/Leetcode/tree/master/1399-count-largest-group) |
 | [1400-construct-k-palindrome-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/amanmishrapvt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -471,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -493,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -582,5 +589,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
