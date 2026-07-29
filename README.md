@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/amanmishrapvt/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/amanmishrapvt/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/amanmishrapvt/Leetcode/tree/master/0050-powx-n) |
 | [0390-elimination-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0394-decode-string) |
