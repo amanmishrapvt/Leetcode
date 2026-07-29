@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/amanmishrapvt/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0456-132-pattern) |
@@ -631,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/amanmishrapvt/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
