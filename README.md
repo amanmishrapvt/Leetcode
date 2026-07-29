@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amanmishrapvt/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amanmishrapvt/Leetcode/tree/master/0383-ransom-note) |
+| [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amanmishrapvt/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0390-elimination-game) |
+| [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/amanmishrapvt/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/amanmishrapvt/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
 | [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 ## Bucket Sort
 |  |
@@ -643,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/amanmishrapvt/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
