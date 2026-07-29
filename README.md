@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0045-jump-game-ii) |
+| [0397-integer-replacement](https://github.com/amanmishrapvt/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/amanmishrapvt/Leetcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/amanmishrapvt/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/amanmishrapvt/Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/amanmishrapvt/Leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/amanmishrapvt/Leetcode/tree/master/0476-number-complement) |
 | [0672-bulb-switcher-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/amanmishrapvt/Leetcode/tree/master/0397-integer-replacement) |
 | [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Stack
 |  |
