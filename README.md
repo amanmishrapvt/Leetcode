@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/amanmishrapvt/Leetcode/tree/master/1078-occurrences-after-bigram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/amanmishrapvt/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1400-construct-k-palindrome-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1405-longest-happy-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1405-longest-happy-string) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
 | ------- |
