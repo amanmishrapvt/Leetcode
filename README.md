@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 | [1417-reformat-the-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1417-reformat-the-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1470-shuffle-the-array) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Randomized
 |  |
 | ------- |
