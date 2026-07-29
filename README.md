@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 | [1417-reformat-the-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1417-reformat-the-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
 |  |
