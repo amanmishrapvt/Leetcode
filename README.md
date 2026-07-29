@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/amanmishrapvt/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/amanmishrapvt/Leetcode/tree/master/0041-first-missing-positive) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/amanmishrapvt/Leetcode/tree/master/0049-group-anagrams) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0125-valid-palindrome) |
