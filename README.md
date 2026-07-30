@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amanmishrapvt/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amanmishrapvt/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amanmishrapvt/Leetcode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanmishrapvt/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/amanmishrapvt/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/0696-count-binary-substrings) |
