@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/amanmishrapvt/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/amanmishrapvt/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0392-is-subsequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amanmishrapvt/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/amanmishrapvt/Leetcode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
