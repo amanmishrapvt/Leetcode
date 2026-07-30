@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amanmishrapvt/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/amanmishrapvt/Leetcode/tree/master/0721-accounts-merge) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/amanmishrapvt/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/amanmishrapvt/Leetcode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/amanmishrapvt/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
