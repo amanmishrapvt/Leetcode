@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 | [1417-reformat-the-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1417-reformat-the-string) |
 | [1496-path-crossing](https://github.com/amanmishrapvt/Leetcode/tree/master/1496-path-crossing) |
+| [1507-reformat-date](https://github.com/amanmishrapvt/Leetcode/tree/master/1507-reformat-date) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
