@@ -1,0 +1,1 @@
+const preorder=r=>{const n=[];return function r(e){if(!e)return n;n.push(e.val);for(let n=0;n<e.children.length;n++)r(e.children[n]);return n}(r)};
