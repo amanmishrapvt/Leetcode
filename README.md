@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/amanmishrapvt/Leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/amanmishrapvt/Leetcode/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1528-shuffle-string) |
+| [1529-minimum-suffix-flips](https://github.com/amanmishrapvt/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1405-longest-happy-string) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amanmishrapvt/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1529-minimum-suffix-flips](https://github.com/amanmishrapvt/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
