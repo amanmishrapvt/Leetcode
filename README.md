@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanmishrapvt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 | [1417-reformat-the-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1417-reformat-the-string) |
+| [1496-path-crossing](https://github.com/amanmishrapvt/Leetcode/tree/master/1496-path-crossing) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/amanmishrapvt/Leetcode/tree/master/1399-count-largest-group) |
 | [1400-construct-k-palindrome-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amanmishrapvt/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1496-path-crossing](https://github.com/amanmishrapvt/Leetcode/tree/master/1496-path-crossing) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
