@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amanmishrapvt/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanmishrapvt/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amanmishrapvt/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amanmishrapvt/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/amanmishrapvt/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amanmishrapvt/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/amanmishrapvt/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amanmishrapvt/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amanmishrapvt/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
