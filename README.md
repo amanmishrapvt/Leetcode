@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amanmishrapvt/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/amanmishrapvt/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/amanmishrapvt/Leetcode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -735,10 +736,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/amanmishrapvt/Leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
