@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/amanmishrapvt/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/amanmishrapvt/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/amanmishrapvt/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/amanmishrapvt/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0456-132-pattern) |
 | [0669-trim-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
