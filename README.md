@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/amanmishrapvt/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amanmishrapvt/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/amanmishrapvt/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
