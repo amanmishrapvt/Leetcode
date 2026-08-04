@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/amanmishrapvt/Leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/amanmishrapvt/Leetcode/tree/master/0722-remove-comments) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0824-goat-latin](https://github.com/amanmishrapvt/Leetcode/tree/master/0824-goat-latin) |
 | [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
