@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/amanmishrapvt/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/amanmishrapvt/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/amanmishrapvt/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0721-accounts-merge](https://github.com/amanmishrapvt/Leetcode/tree/master/0721-accounts-merge) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/amanmishrapvt/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/amanmishrapvt/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/amanmishrapvt/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/amanmishrapvt/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0749-contain-virus](https://github.com/amanmishrapvt/Leetcode/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0867-transpose-matrix) |
