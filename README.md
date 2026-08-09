@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/amanmishrapvt/Leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/amanmishrapvt/Leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/amanmishrapvt/Leetcode/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/amanmishrapvt/Leetcode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amanmishrapvt/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0720-longest-word-in-dictionary](https://github.com/amanmishrapvt/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/amanmishrapvt/Leetcode/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/amanmishrapvt/Leetcode/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0859-buddy-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0859-buddy-strings) |
 | [0869-reordered-power-of-2](https://github.com/amanmishrapvt/Leetcode/tree/master/0869-reordered-power-of-2) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amanmishrapvt/Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/amanmishrapvt/Leetcode/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
