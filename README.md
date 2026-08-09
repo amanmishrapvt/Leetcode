@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/amanmishrapvt/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/amanmishrapvt/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
