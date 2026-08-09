@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amanmishrapvt/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/amanmishrapvt/Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0097-interleaving-string) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/amanmishrapvt/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/amanmishrapvt/Leetcode/tree/master/0661-image-smoother) |
