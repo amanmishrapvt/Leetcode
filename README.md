@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/amanmishrapvt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/amanmishrapvt/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/amanmishrapvt/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1416-restore-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanmishrapvt/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amanmishrapvt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amanmishrapvt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -915,8 +918,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
