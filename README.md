@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/amanmishrapvt/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1184-distance-between-bus-stops](https://github.com/amanmishrapvt/Leetcode/tree/master/1184-distance-between-bus-stops) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/amanmishrapvt/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/amanmishrapvt/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/amanmishrapvt/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
