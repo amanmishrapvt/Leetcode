@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/amanmishrapvt/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-immediate-food-delivery-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-reformat-department-table](https://github.com/amanmishrapvt/Leetcode/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/amanmishrapvt/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/amanmishrapvt/Leetcode/tree/master/1251-average-selling-price) |
 ## Design
 |  |
