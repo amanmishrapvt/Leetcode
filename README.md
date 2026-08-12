@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/amanmishrapvt/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/amanmishrapvt/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/amanmishrapvt/Leetcode/tree/master/0372-super-pow) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [0343-integer-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/amanmishrapvt/Leetcode/tree/master/0397-integer-replacement) |
