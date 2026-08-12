@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/amanmishrapvt/Leetcode/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/amanmishrapvt/Leetcode/tree/master/1175-prime-arrangements) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/amanmishrapvt/Leetcode/tree/master/1399-count-largest-group) |
@@ -1009,4 +1010,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/amanmishrapvt/Leetcode/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/amanmishrapvt/Leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/amanmishrapvt/Leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
