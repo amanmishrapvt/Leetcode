@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/amanmishrapvt/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1154-day-of-the-year](https://github.com/amanmishrapvt/Leetcode/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amanmishrapvt/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/amanmishrapvt/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/amanmishrapvt/Leetcode/tree/master/1399-count-largest-group) |
