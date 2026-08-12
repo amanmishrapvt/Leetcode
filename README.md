@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/amanmishrapvt/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/amanmishrapvt/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/amanmishrapvt/Leetcode/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/amanmishrapvt/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/amanmishrapvt/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanmishrapvt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/amanmishrapvt/Leetcode/tree/master/0868-binary-gap) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/amanmishrapvt/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/amanmishrapvt/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
