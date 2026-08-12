@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/amanmishrapvt/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/amanmishrapvt/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/amanmishrapvt/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/amanmishrapvt/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/amanmishrapvt/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/amanmishrapvt/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -976,4 +980,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/amanmishrapvt/Leetcode/tree/master/1114-print-in-order) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
