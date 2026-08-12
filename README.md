@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/amanmishrapvt/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/amanmishrapvt/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0905-sort-array-by-parity](https://github.com/amanmishrapvt/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/amanmishrapvt/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0888-fair-candy-swap](https://github.com/amanmishrapvt/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0905-sort-array-by-parity](https://github.com/amanmishrapvt/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/amanmishrapvt/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/amanmishrapvt/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/amanmishrapvt/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0870-advantage-shuffle](https://github.com/amanmishrapvt/Leetcode/tree/master/0870-advantage-shuffle) |
+| [0905-sort-array-by-parity](https://github.com/amanmishrapvt/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/amanmishrapvt/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
