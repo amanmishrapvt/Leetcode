@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/amanmishrapvt/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1154-day-of-the-year](https://github.com/amanmishrapvt/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/amanmishrapvt/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/amanmishrapvt/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1288-remove-covered-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
