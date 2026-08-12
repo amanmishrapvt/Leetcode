@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/amanmishrapvt/Leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/amanmishrapvt/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1154-day-of-the-year](https://github.com/amanmishrapvt/Leetcode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/amanmishrapvt/Leetcode/tree/master/1025-divisor-game) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1140-stone-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/amanmishrapvt/Leetcode/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/amanmishrapvt/Leetcode/tree/master/1399-count-largest-group) |
