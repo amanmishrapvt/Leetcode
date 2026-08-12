@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/amanmishrapvt/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/amanmishrapvt/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanmishrapvt/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1192-critical-connections-in-a-network](https://github.com/amanmishrapvt/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amanmishrapvt/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/amanmishrapvt/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1192-critical-connections-in-a-network](https://github.com/amanmishrapvt/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/amanmishrapvt/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [3310-remove-methods-from-project](https://github.com/amanmishrapvt/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Brainteaser
@@ -1026,4 +1028,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/amanmishrapvt/Leetcode/tree/master/1175-prime-arrangements) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/amanmishrapvt/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/amanmishrapvt/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
