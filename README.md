@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/amanmishrapvt/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1184-distance-between-bus-stops](https://github.com/amanmishrapvt/Leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
