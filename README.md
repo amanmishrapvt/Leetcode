@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/amanmishrapvt/Leetcode/tree/master/0228-summary-ranges) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanmishrapvt/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amanmishrapvt/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/amanmishrapvt/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0258-add-digits) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanmishrapvt/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0344-reverse-string) |
