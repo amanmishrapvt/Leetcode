@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanmishrapvt/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/amanmishrapvt/Leetcode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1603-design-parking-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1603-design-parking-system) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3612-process-string-with-special-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amanmishrapvt/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1603-design-parking-system) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amanmishrapvt/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
+| [1603-design-parking-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1603-design-parking-system) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
 ## Queue
 |  |
