@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/amanmishrapvt/Leetcode/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/amanmishrapvt/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/amanmishrapvt/Leetcode/tree/master/1251-average-selling-price) |
+| [1587-bank-account-summary-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1587-bank-account-summary-ii) |
 ## Design
 |  |
 | ------- |
