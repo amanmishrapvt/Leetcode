@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/amanmishrapvt/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/amanmishrapvt/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/amanmishrapvt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amanmishrapvt/Leetcode/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/amanmishrapvt/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/amanmishrapvt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/amanmishrapvt/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanmishrapvt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amanmishrapvt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amanmishrapvt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
 | [0343-integer-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
