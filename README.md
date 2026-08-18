@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1603-design-parking-system) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
+| [2276-count-integers-in-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/2276-count-integers-in-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/amanmishrapvt/Leetcode/tree/master/0456-132-pattern) |
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2276-count-integers-in-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/2276-count-integers-in-intervals) |
 ## String Matching
 |  |
 | ------- |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2276-count-integers-in-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/2276-count-integers-in-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Randomized
 |  |
