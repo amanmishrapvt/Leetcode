@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1603-design-parking-system) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3612-process-string-with-special-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanmishrapvt/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3731-find-missing-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amanmishrapvt/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1598-crawler-log-folder](https://github.com/amanmishrapvt/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanmishrapvt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Database
 |  |
 | ------- |
