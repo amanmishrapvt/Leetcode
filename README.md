@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/amanmishrapvt/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
 | [1400-construct-k-palindrome-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/1400-construct-k-palindrome-strings) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/amanmishrapvt/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1189-maximum-number-of-balloons](https://github.com/amanmishrapvt/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1396-design-underground-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1396-design-underground-system) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amanmishrapvt/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/amanmishrapvt/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanmishrapvt/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanmishrapvt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
