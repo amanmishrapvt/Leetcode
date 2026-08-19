@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanmishrapvt/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
