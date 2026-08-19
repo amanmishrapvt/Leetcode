@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amanmishrapvt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/amanmishrapvt/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/amanmishrapvt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanmishrapvt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/amanmishrapvt/Leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
+| [2615-sum-of-distances](https://github.com/amanmishrapvt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanmishrapvt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2574-left-and-right-sum-differences](https://github.com/amanmishrapvt/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/amanmishrapvt/Leetcode/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
