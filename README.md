@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amanmishrapvt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amanmishrapvt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amanmishrapvt/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amanmishrapvt/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amanmishrapvt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2276-count-integers-in-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/2276-count-integers-in-intervals) |
+| [3161-block-placement-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3161-block-placement-queries) |
 ## String Matching
 |  |
 | ------- |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0699-falling-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2276-count-integers-in-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/2276-count-integers-in-intervals) |
+| [3161-block-placement-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Randomized
 |  |
@@ -1172,4 +1176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
