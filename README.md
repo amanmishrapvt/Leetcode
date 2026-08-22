@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1306-jump-game-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanmishrapvt/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/amanmishrapvt/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/amanmishrapvt/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1306-jump-game-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/amanmishrapvt/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/amanmishrapvt/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1306-jump-game-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1306-jump-game-iii) |
 | [1377-frog-position-after-t-seconds](https://github.com/amanmishrapvt/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
