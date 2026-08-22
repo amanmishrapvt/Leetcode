@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
 | [2029-stone-game-ix](https://github.com/amanmishrapvt/Leetcode/tree/master/2029-stone-game-ix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/amanmishrapvt/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amanmishrapvt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amanmishrapvt/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amanmishrapvt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/amanmishrapvt/Leetcode/tree/master/2029-stone-game-ix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/amanmishrapvt/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amanmishrapvt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
