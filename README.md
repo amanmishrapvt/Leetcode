@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/amanmishrapvt/Leetcode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amanmishrapvt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amanmishrapvt/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/amanmishrapvt/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/amanmishrapvt/Leetcode/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/amanmishrapvt/Leetcode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amanmishrapvt/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amanmishrapvt/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amanmishrapvt/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/amanmishrapvt/Leetcode/tree/master/1510-stone-game-iv) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amanmishrapvt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amanmishrapvt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
@@ -949,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -1031,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/amanmishrapvt/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
