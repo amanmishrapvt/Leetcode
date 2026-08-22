@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanmishrapvt/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amanmishrapvt/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amanmishrapvt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanmishrapvt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amanmishrapvt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amanmishrapvt/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanmishrapvt/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/amanmishrapvt/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/amanmishrapvt/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
