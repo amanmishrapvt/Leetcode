@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1813-sentence-similarity-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amanmishrapvt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1861-rotating-the-box](https://github.com/amanmishrapvt/Leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/amanmishrapvt/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amanmishrapvt/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1813-sentence-similarity-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1813-sentence-similarity-iii) |
+| [1861-rotating-the-box](https://github.com/amanmishrapvt/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanmishrapvt/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanmishrapvt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amanmishrapvt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1861-rotating-the-box](https://github.com/amanmishrapvt/Leetcode/tree/master/1861-rotating-the-box) |
 | [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
