@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/amanmishrapvt/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanmishrapvt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/amanmishrapvt/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/amanmishrapvt/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1377-frog-position-after-t-seconds](https://github.com/amanmishrapvt/Leetcode/tree/master/1377-frog-position-after-t-seconds) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/amanmishrapvt/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/amanmishrapvt/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanmishrapvt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/amanmishrapvt/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanmishrapvt/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amanmishrapvt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
