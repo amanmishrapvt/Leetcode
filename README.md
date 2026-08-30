@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/amanmishrapvt/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/amanmishrapvt/Leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amanmishrapvt/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1813-sentence-similarity-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/amanmishrapvt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/amanmishrapvt/Leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amanmishrapvt/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanmishrapvt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/amanmishrapvt/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/amanmishrapvt/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amanmishrapvt/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/amanmishrapvt/Leetcode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/amanmishrapvt/Leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/amanmishrapvt/Leetcode/tree/master/2574-left-and-right-sum-differences) |
