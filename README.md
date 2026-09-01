@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanmishrapvt/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amanmishrapvt/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3731-find-missing-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amanmishrapvt/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amanmishrapvt/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3731-find-missing-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Counting
 |  |
 | ------- |
@@ -1131,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Segment Tree
 |  |
 | ------- |
