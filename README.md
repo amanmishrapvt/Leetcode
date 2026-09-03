@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amanmishrapvt/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amanmishrapvt/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3731-find-missing-elements) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amanmishrapvt/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amanmishrapvt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanmishrapvt/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/amanmishrapvt/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
