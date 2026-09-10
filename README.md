@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanmishrapvt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amanmishrapvt/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amanmishrapvt/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/amanmishrapvt/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanmishrapvt/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amanmishrapvt/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
