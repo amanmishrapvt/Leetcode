@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amanmishrapvt/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1813-sentence-similarity-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/amanmishrapvt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amanmishrapvt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/amanmishrapvt/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amanmishrapvt/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amanmishrapvt/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/amanmishrapvt/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/amanmishrapvt/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amanmishrapvt/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
