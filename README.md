@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/amanmishrapvt/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amanmishrapvt/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3660-jump-game-ix](https://github.com/amanmishrapvt/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanmishrapvt/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amanmishrapvt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/amanmishrapvt/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3660-jump-game-ix](https://github.com/amanmishrapvt/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanmishrapvt/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
