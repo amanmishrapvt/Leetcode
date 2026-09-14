@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanmishrapvt/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/amanmishrapvt/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanmishrapvt/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1084,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/amanmishrapvt/Leetcode/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
