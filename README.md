@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanmishrapvt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amanmishrapvt/Leetcode/tree/master/0139-word-break) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/amanmishrapvt/Leetcode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/amanmishrapvt/Leetcode/tree/master/0228-summary-ranges) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/amanmishrapvt/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amanmishrapvt/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
