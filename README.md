@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/amanmishrapvt/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanmishrapvt/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/amanmishrapvt/Leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/amanmishrapvt/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/amanmishrapvt/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/amanmishrapvt/Leetcode/tree/master/0908-smallest-range-i) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/amanmishrapvt/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amanmishrapvt/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amanmishrapvt/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Union-Find
