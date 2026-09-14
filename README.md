@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/amanmishrapvt/Leetcode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/amanmishrapvt/Leetcode/tree/master/1603-design-parking-system) |
+| [1914-cyclically-rotating-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amanmishrapvt/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/amanmishrapvt/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amanmishrapvt/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amanmishrapvt/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/amanmishrapvt/Leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/amanmishrapvt/Leetcode/tree/master/1872-stone-game-viii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2013-detect-squares](https://github.com/amanmishrapvt/Leetcode/tree/master/2013-detect-squares) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1861-rotating-the-box](https://github.com/amanmishrapvt/Leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/amanmishrapvt/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
