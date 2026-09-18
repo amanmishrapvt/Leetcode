@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanmishrapvt/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3093-longest-common-suffix-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amanmishrapvt/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/amanmishrapvt/Leetcode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3093-longest-common-suffix-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amanmishrapvt/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amanmishrapvt/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/amanmishrapvt/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanmishrapvt/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/amanmishrapvt/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Memoization
 |  |
 | ------- |
