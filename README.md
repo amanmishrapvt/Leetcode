@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1417-reformat-the-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1417-reformat-the-string) |
 | [1496-path-crossing](https://github.com/amanmishrapvt/Leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/amanmishrapvt/Leetcode/tree/master/1507-reformat-date) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1528-shuffle-string) |
 | [1529-minimum-suffix-flips](https://github.com/amanmishrapvt/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1544-make-the-string-great](https://github.com/amanmishrapvt/Leetcode/tree/master/1544-make-the-string-great) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/amanmishrapvt/Leetcode/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/amanmishrapvt/Leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amanmishrapvt/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/amanmishrapvt/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1405-longest-happy-string) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/amanmishrapvt/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/amanmishrapvt/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/amanmishrapvt/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/amanmishrapvt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amanmishrapvt/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/amanmishrapvt/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/amanmishrapvt/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanmishrapvt/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/amanmishrapvt/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/amanmishrapvt/Leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
