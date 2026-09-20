@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/amanmishrapvt/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3838-weighted-word-mapping](https://github.com/amanmishrapvt/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
+| [3838-weighted-word-mapping](https://github.com/amanmishrapvt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/amanmishrapvt/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/amanmishrapvt/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
+| [3838-weighted-word-mapping](https://github.com/amanmishrapvt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanmishrapvt/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
