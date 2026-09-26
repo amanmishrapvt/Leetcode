@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/amanmishrapvt/Leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/amanmishrapvt/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/amanmishrapvt/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0997-find-the-town-judge](https://github.com/amanmishrapvt/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/amanmishrapvt/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/amanmishrapvt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/amanmishrapvt/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/amanmishrapvt/Leetcode/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/amanmishrapvt/Leetcode/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/amanmishrapvt/Leetcode/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/amanmishrapvt/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/amanmishrapvt/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/amanmishrapvt/Leetcode/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/amanmishrapvt/Leetcode/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanmishrapvt/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/amanmishrapvt/Leetcode/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -856,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/amanmishrapvt/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/amanmishrapvt/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/amanmishrapvt/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/amanmishrapvt/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1267-count-servers-that-communicate](https://github.com/amanmishrapvt/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1306-jump-game-iii) |
@@ -1025,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/amanmishrapvt/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/amanmishrapvt/Leetcode/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amanmishrapvt/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
