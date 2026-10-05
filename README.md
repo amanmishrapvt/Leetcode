@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/amanmishrapvt/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/amanmishrapvt/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/amanmishrapvt/Leetcode/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amanmishrapvt/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/amanmishrapvt/Leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1871-jump-game-vii](https://github.com/amanmishrapvt/Leetcode/tree/master/1871-jump-game-vii) |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/amanmishrapvt/Leetcode/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amanmishrapvt/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1598-crawler-log-folder](https://github.com/amanmishrapvt/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanmishrapvt/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanmishrapvt/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Database
@@ -1472,4 +1474,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
