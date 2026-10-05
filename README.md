@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/amanmishrapvt/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0824-goat-latin](https://github.com/amanmishrapvt/Leetcode/tree/master/0824-goat-latin) |
 | [0848-shifting-letters](https://github.com/amanmishrapvt/Leetcode/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0859-buddy-strings) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/amanmishrapvt/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/amanmishrapvt/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/amanmishrapvt/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amanmishrapvt/Leetcode/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanmishrapvt/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -1460,4 +1462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amanmishrapvt/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
