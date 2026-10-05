@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amanmishrapvt/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amanmishrapvt/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/amanmishrapvt/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amanmishrapvt/Leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/amanmishrapvt/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/amanmishrapvt/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/amanmishrapvt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/amanmishrapvt/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/amanmishrapvt/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanmishrapvt/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1476,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanmishrapvt/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
